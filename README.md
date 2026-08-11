@@ -19,6 +19,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
   <span style="color: #8B5CF6;">About Me</span>
 </h2>
+<!-- Animated coding GIF on the right side -->
+<img align='right' src='https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/assets/featured/coder.gif' width='250'>
 
 <p>
   I'm a <b>Junior Flutter Developer</b> and <b>Management Information Systems student</b> at <b>Modern Academy Maadi</b>, passionate about building modern and user-friendly mobile applications using <b>Flutter</b> and <b>Dart</b>.
