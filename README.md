@@ -16,7 +16,7 @@
 <!-- ================= ABOUT ME ================= -->
 
 <h2>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
   <span style="color: #8B5CF6;">About Me</span>
 </h2>
 
@@ -143,12 +143,22 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudjozef&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudjozef&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- GitHub snake animation -->
+<!-- GitHub Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mahmoudjozef/mahmoudjozef/output/snake-dark.svg" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/mahmoudjozef/mahmoudjozef/output/github-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/mahmoudjozef/mahmoudjozef/output/github-snake.svg">
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/mahmoudjozef/mahmoudjozef/output/github-snake.svg">
+  </picture>
 </p>
 
 <!-- Decorative divider -->
@@ -163,7 +173,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoudjozef&theme=react-dark&hide_border=true&area=true&bg_color=0D1117"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoudjozef&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" />
 </p>
 
 <div align="center">
@@ -203,7 +213,7 @@
 
 <!-- Closing typing animation -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Thanks+for+visiting!+💙;Let's+connect+on+LinkedIn!;Always+Learning+🚀&color=00B4DB">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Thanks+for+visiting!+💙;Let's+connect+on+LinkedIn!;Always+Learning+🚀&color=00B4DB" />
 </h3>
 
 <div align="center">
